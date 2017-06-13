@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: social-auth-server
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: zengrd
+Built-By: zrd
 Implementation-Vendor-Id: com.cmrh.auth
-Build-Jdk: 1.8.0_121
+Build-Jdk: 1.8.0_91
 Implementation-URL: http://projects.spring.io/spring-boot/rh-auth-serv
  er/
 Created-By: Maven Integration for Eclipse
